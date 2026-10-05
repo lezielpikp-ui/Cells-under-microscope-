@@ -1,0 +1,6 @@
+{
+  "name": "CytoQuest P5: Animal & Plant Cell Lab",
+  "description": "A Primary 5 Science game focused on the 7 core cell parts: Cell Membrane, Nucleus, Cytoplasm, Mitochondria, Vacuole, Cell Wall, and Chloroplasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
